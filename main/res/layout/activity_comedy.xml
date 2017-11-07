@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.dude.quizscene.Comedy"
+    android:background="@drawable/comedy">
+    <TextView
+        android:text="Score="
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/scoreTh"
+ android:background="#80000000"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:background="#80000000"
+        android:id="@+id/questionTh"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/scoreTh"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/B4h"
+        android:background="#80000000"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="13dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/B3h"
+        android:background="#80000000"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="14dp"
+        android:layout_above="@+id/B4h"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/B2h"
+        android:background="#80000000"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="17dp"
+        android:layout_above="@+id/B3h"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/B1h"
+        android:background="#80000000"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="21dp"
+        android:layout_above="@+id/B2h"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
+
+

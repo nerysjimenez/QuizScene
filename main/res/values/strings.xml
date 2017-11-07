@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quizscene</string>
+    <string name="Frank">British actor Boris Karloff played the role of the monster in the 1931 film Frankenstein. The ghoulish makeup he wore and the lurching walk he adopted in the film have become conventions, even cliche of horror films.</string>
+
+    <string name="action_settings">Settings</string>
+
+
+        <string name="S1">The Mighty Ducks is a 1992 American sports comedy-drama film directed by Stephen Herek, starring Emilio Estevez. It is the first film in the Mighty Ducks trilogy.</string>
+        <string name="S2">Field of Dreams is a 1989 American fantasy-drama sports film directed by Phil Alden Robinson.It was nominated for three Academy Awards.</string>
+        <string name="S3">Daniel Michael "Danny" DeVito Jr is an American actor, comedian, producer and director.</string>
+        <string name="S4">Forrest Gump, played by Tom Hanks, has a penchant for running..he just does not know when to stop. This does not matter to Paul Bear Bryant, coach of the Alabama football team, however, just as long as Forrest runs through the endzone</string>
+        <string name="S5">G. Wood plays Brigadier General Charlie Hammond, who makes a bet with Lt. Colonel Henry Blake about who will win the football game.</string>
+        <string name="S6">Directed by Billy Wilder, The Fortune Cookie is a fantastic comedy that features the first pairing of screen legends Matthau and Lemmon.</string>
+        <string name="S7">Fast Times at Ridgemont High is the story of several kids trying to cope with life at a typical American high school. </string>
+        <string name="S8">Heaven Can Wait is a remake of the 1941 classic Here Comes Mr. Jordan, which starred Robert Montgomery as the Joe Pendleton character, a boxer in this case.</string>
+        <string name="S9">\"Tom Cruise is Stefen Djordjevic, the son of a steel worker in an industrial town. Craig T. Nelson plays Nickerson, a hard-nosed football coach for the local high school. \"</string>
+        <string name="S10">Revenge of the Nerds stars Robert Carradine,Timothy Busfield and several others as nerds, and Ted McGinley, Donald Gibb and friends as football jocks.</string>
+
+    <string name="title_activity_trailer">Trailer</string>
+    <string name="forrestGquestion">Which legendary coach does Forrest Gump play under?</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_start_screen">startScreen</string>
+    <string name="title_activity_audio">Audio</string>
+</resources>
